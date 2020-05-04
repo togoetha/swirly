@@ -1,0 +1,11 @@
+{
+	"port": 8180,
+	"fogNodeLabel": "fognode",
+	"edgeNodeLabel": "edgenode",
+	"edgePort": 8182,
+	"edgeUpdateUrl": "setFogNodes",
+	"edgeDeploymentName": "edgetest",
+	"fogDeploymentTemplate": "insertjson",
+	"maxPing": 100,
+	"fogPort": 8181
+}

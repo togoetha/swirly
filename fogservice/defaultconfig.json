@@ -1,0 +1,8 @@
+{
+	"port": 8181,
+	"swirlServer": "10.2.33.18",
+	"swirlPort": 8180,
+	"resourceReportUrl": "updateFogNodeResources",
+	"resourceUpdatePeriod": 10,
+	"nodeID": "127.0.0.1"
+}

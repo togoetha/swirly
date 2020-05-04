@@ -1,0 +1,1 @@
+{ "minEdgeNodes": 50000,"maxEdgeNodes": 200000,"edgeNodeStep": 50000,"minFogNodes": 100,"maxFogNodes": 400,"fogNodeStep": 50,"iterations": 20,"checkResources": false,"maxPingDiff": 20,"slaMaxPing": 100,"amountDeleteNodes": 10000,"speedTest": false,"memTest": true }

@@ -1,0 +1,12 @@
+{
+	"port": 8182,
+	"swirlServer": "127.0.0.1",
+	"swirlPort": 8180,
+	"pingReportUrl": "updateFogNodePings",
+	"pingPeriod": 10,
+	"pingUrl": "ping",
+	"pingPort": 8181,
+	"maxPing": 100,
+	"nodeID": "127.0.0.1",
+	"fetchFogUrl": "getFogNodeIPs"
+}
